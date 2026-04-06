@@ -1,6 +1,21 @@
-# Alwyn Anil D'Souza
+# Hi, I'm Alwyn D'Souza | Data & AI Engineering
 
-Software developer passionate about building clean, scalable solutions.
+I build scalable data platforms and AI-powered products that drive business outcomes. Currently leading strategic initiatives across data mesh architecture, semantic layers, and modern data stack implementation.
+
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwynanildsouza/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@aradsouza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alwyndsouza)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aradsouza@gmail.com)
+
+## 🎯 Focus Areas
+
+- Modern data architecture (data mesh, semantic layer, lakehouse)
+- AI engineering & LLM integration patterns
+- DataOps & observability frameworks
+- Team enablement & technical leadership
+
+---
+
+💡 *"Delivering reliable AI on a governed data foundation"*
