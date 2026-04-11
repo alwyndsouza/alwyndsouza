@@ -21,4 +21,12 @@ I build scalable data platforms and AI-powered products that drive business outc
 
 ---
 
-![Metrics](/github-metrics.svg)
+## 📊 GitHub Analytics
+
+### 🛠 Core Technical Expertise
+![Languages](./metrics.plugin.languages.svg)
+
+### 📈 Contribution Overview
+![General Stats](./github-metrics.svg)
+
+## ✍️ Latest Technical Articles
