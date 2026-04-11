@@ -30,3 +30,5 @@ I build scalable data platforms and AI-powered products that drive business outc
 ![General Stats](./github-metrics.svg)
 
 ## ✍️ Latest Technical Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
