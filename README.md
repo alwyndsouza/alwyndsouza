@@ -7,17 +7,21 @@ I build scalable data platforms and AI-powered products that drive business outc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwynanildsouza/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@aradsouza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alwyndsouza)
+![Location](https://img.shields.io/badge/Location-Sydney,%20Australia-blue)
 
-## 🎯 Focus Areas
+## 🎯 Focus Areas & Tech Stack
 
-- Modern data architecture (data mesh, semantic layer, lakehouse)
-- AI engineering & LLM integration patterns
-- DataOps & observability frameworks
-- Team enablement & technical leadership
+![dltHub Advanced](https://img.shields.io/badge/dltHub-Advanced_ETL_Specialist-blueviolet?style=for-the-badge&logo=python&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
-
-💡 *"Delivering reliable AI on a governed data foundation"*
+- **Modern Data Architecture:** Data Mesh, Semantic Layer, Lakehouse patterns.
+- **AI Engineering:** LLM integration, local-first AI agents (Ollama/MCP).
+- **DataOps:** CI/CD for Data, Unit Testing SQL, and Data Contracts.
+- **Leadership:** Technical mentorship and driving engineering excellence.
 
 ---
 
