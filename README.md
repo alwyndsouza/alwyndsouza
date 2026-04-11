@@ -19,4 +19,6 @@ I build scalable data platforms and AI-powered products that drive business outc
 
 💡 *"Delivering reliable AI on a governed data foundation"*
 
+---
+
 ![Metrics](/github-metrics.svg)
