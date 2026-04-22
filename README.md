@@ -39,6 +39,7 @@ I build scalable data platforms and AI-powered products that drive business outc
 
 ## ✍️ Latest Technical Articles
 <!-- BLOG-POST-LIST:START -->
+- [A Better Way to Do Real-Time Streaming &lpar;Redpanda + RisingWave Explained&rpar;](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
 - [BI-as-Code: Bridging the Gap Between Data Engineering and Analytics](https://medium.com/towards-data-engineering/bi-as-code-bridging-the-gap-between-data-engineering-and-analytics-9da47a39fb8c?source=rss-670f6306e3c0------2)
 - [MCP vs Agentic Skills — What’s the Difference, and How Do They Work Together?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-whats-the-difference-and-how-do-they-work-together-0ddaea01f73c?source=rss-670f6306e3c0------2)
 - [Databricks transitioning to the Direct Deployment Engine for Declarative Automation Bundles](https://medium.com/towards-data-engineering/transitioning-to-the-direct-deployment-engine-for-declarative-automation-bundles-e0e5a45bb9db?source=rss-670f6306e3c0------2)
@@ -48,5 +49,4 @@ I build scalable data platforms and AI-powered products that drive business outc
 - [dbt fusion — Under the Hood — The Technical Architecture](https://medium.com/towards-data-engineering/dbt-fusion-under-the-hood-the-technical-architecture-ca28d7f5ba0d?source=rss-670f6306e3c0------2)
 - [The Evolution — Why dbt Needed a Revolution](https://medium.com/towards-data-engineering/the-evolution-why-dbt-needed-a-revolution-8099efbf4522?source=rss-670f6306e3c0------2)
 - [Speed Up Your dbt Development with Sample Mode](https://medium.com/towards-data-engineering/speed-up-your-dbt-development-with-sample-mode-fbf9ec131a9d?source=rss-670f6306e3c0------2)
-- [Customizing Your dbt Documentation with node_color](https://medium.com/towards-data-engineering/customizing-your-dbt-documentation-with-node-color-2e7eda74434b?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
