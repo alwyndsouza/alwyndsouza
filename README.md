@@ -22,10 +22,14 @@ I build scalable data platforms and AI-powered products that drive business outc
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge&logo=git&logoColor=white)
 
-- **Modern Data Architecture:** Data Mesh, Semantic Layer, Lakehouse patterns.
-- **AI Engineering:** LLM integration, local-first AI agents (Ollama/MCP).
-- **DataOps:** CI/CD for Data, Unit Testing SQL, and Data Contracts.
-- **Leadership:** Technical mentorship and driving engineering excellence.
+
+- **Data Engineering & Lakehouse:** Data Mesh · AWS Glue · Lake Formation · Iceberg · Databricks · dbt · Redshift · GCP
+- **DataOps:** Data Contracts · CI/CD for Pipelines · Semantic Layers · End-to-End Observability · Incident & Change Management
+- **AI & ML Engineering:**  · AIOps · Production LLM Integration · Agentic Pipelines (MCP) · RAG · AI Guardrails for Data Quality
+- **MLOps:** Pipeline Orchestration · Model Lifecycle Governance · ML Observability
+- **Streaming:** Flink · Kafka · Redpanda · RisingWave
+- **Infra & Orchestration:** Terraform · Step Functions · GitHub Actions · dlt
+- **Leadership:** COE Capability Uplift · Vendor Engagement (dbt Labs · AWS · Databricks) · Technical Mentorship
 
 ---
 
