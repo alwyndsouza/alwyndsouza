@@ -50,7 +50,7 @@ I build scalable data platforms and AI-powered products that drive business outc
 - [The dbt MCP Server: How the Model Context Protocol Bridges Governed Data to AI Agents](https://medium.com/towards-data-engineering/the-dbt-mcp-server-how-the-model-context-protocol-bridges-governed-data-to-ai-agents-5ae25b7b6703?source=rss-670f6306e3c0------2)
 - [Metrics as Code: Building a Semantic Layer With dbt and MetricFlow](https://medium.com/towards-data-engineering/metrics-as-code-building-a-semantic-layer-with-dbt-and-metricflow-93d7e29e6ab3?source=rss-670f6306e3c0------2)
 - [Why Data Teams Need a Semantic Layer](https://medium.com/towards-data-engineering/why-data-teams-need-a-semantic-layer-83947a5a0057?source=rss-670f6306e3c0------2)
-- [dbt fusion — Under the Hood — The Technical Architecture](https://medium.com/towards-data-engineering/dbt-fusion-under-the-hood-the-technical-architecture-ca28d7f5ba0d?source=rss-670f6306e3c0------2)
+- [dbt fusion — Under the Hood — The Technical Architecture](https://blog.dataengineerthings.org/dbt-fusion-under-the-hood-the-technical-architecture-ca28d7f5ba0d?source=rss-670f6306e3c0------2)
 - [The Evolution — Why dbt Needed a Revolution](https://medium.com/towards-data-engineering/the-evolution-why-dbt-needed-a-revolution-8099efbf4522?source=rss-670f6306e3c0------2)
 - [Speed Up Your dbt Development with Sample Mode](https://medium.com/towards-data-engineering/speed-up-your-dbt-development-with-sample-mode-fbf9ec131a9d?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
