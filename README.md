@@ -43,7 +43,7 @@ I build scalable data platforms and AI-powered products that drive business outc
 
 ## ✍️ Latest Technical Articles
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://aradsouza.medium.com/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
+- [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
 - [AI Agents Explained Without the Hype: A Data Engineer’s Take](https://aradsouza.medium.com/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
 - [A Better Way to Do Real-Time Streaming &lpar;Redpanda + RisingWave Explained&rpar;](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
 - [BI-as-Code: Bridging the Gap Between Data Engineering and Analytics](https://medium.com/towards-data-engineering/bi-as-code-bridging-the-gap-between-data-engineering-and-analytics-9da47a39fb8c?source=rss-670f6306e3c0------2)
