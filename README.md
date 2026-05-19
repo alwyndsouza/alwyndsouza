@@ -165,15 +165,15 @@ Modernizing enterprise analytics ecosystems through scalable architecture and pl
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
-- [AI Agents Explained Without the Hype: A Data Engineer's Take](https://medium.com/towards-data-engineering/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
-- [A Better Way to Do Real-Time Streaming (Redpanda + RisingWave Explained)](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
+- [AI Agents Explained Without the Hype: A Data Engineer’s Take](https://medium.com/towards-data-engineering/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
+- [A Better Way to Do Real-Time Streaming &lpar;Redpanda + RisingWave Explained&rpar;](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
 - [BI-as-Code: Bridging the Gap Between Data Engineering and Analytics](https://medium.com/towards-data-engineering/bi-as-code-bridging-the-gap-between-data-engineering-and-analytics-9da47a39fb8c?source=rss-670f6306e3c0------2)
-- [MCP vs Agentic Skills — What's the Difference, and How Do They Work Together?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-whats-the-difference-and-how-do-they-work-together-0ddaea01f73c?source=rss-670f6306e3c0------2)
+- [MCP vs Agentic Skills — What’s the Difference, and How Do They Work Together?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-whats-the-difference-and-how-do-they-work-together-0ddaea01f73c?source=rss-670f6306e3c0------2)
 - [Databricks transitioning to the Direct Deployment Engine for Declarative Automation Bundles](https://medium.com/towards-data-engineering/transitioning-to-the-direct-deployment-engine-for-declarative-automation-bundles-e0e5a45bb9db?source=rss-670f6306e3c0------2)
 - [The dbt MCP Server: How the Model Context Protocol Bridges Governed Data to AI Agents](https://medium.com/towards-data-engineering/the-dbt-mcp-server-how-the-model-context-protocol-bridges-governed-data-to-ai-agents-5ae25b7b6703?source=rss-670f6306e3c0------2)
 - [Metrics as Code: Building a Semantic Layer With dbt and MetricFlow](https://medium.com/towards-data-engineering/metrics-as-code-building-a-semantic-layer-with-dbt-and-metricflow-93d7e29e6ab3?source=rss-670f6306e3c0------2)
 - [Why Data Teams Need a Semantic Layer](https://medium.com/towards-data-engineering/why-data-teams-need-a-semantic-layer-83947a5a0057?source=rss-670f6306e3c0------2)
-- [dbt fusion — Under the Hood — The Technical Architecture](https://medium.com/towards-data-engineering/dbt-fusion-under-the-hood-the-technical-architecture-ca28d7f5ba0d?source=rss-670f6306e3c0------2)
+- [dbt fusion — Under the Hood — The Technical Architecture](https://medium.com/towards-data-engineering/dbt-fusion-under-the-hood-the-technical-architecture-ca28d7f5ba0d?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
