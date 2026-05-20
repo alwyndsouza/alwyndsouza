@@ -2,115 +2,44 @@
 
 ## Enterprise Data & AI Platform Architect
 
-Designing scalable enterprise data platforms, AI-driven workflows, and cloud-native analytics systems using modern DataOps, Databricks, dbt, and AI engineering practices.
+Building production-grade data systems that scale for enterprise teams.
 
-<p align="left">
-  <a href="https://alwyndsouza.github.io">Portfolio</a> •
-  <a href="https://github.com/alwyndsouza">GitHub</a> •
-  <a href="https://www.linkedin.com/in/alwynanildsouza/">LinkedIn</a> •
-  <a href="https://medium.com/@aradsouza">Medium</a>
-</p>
+20+ years designing and delivering data platforms across regulated industries — telco, banking, and retail. Based in Sydney, Australia.
 
 ---
 
-## About Me
-
-I specialise in building modern enterprise data platforms focused on scalability, automation, governance, and intelligent engineering systems.
-
-My work spans:
-- Enterprise Data Platform Architecture
-- DataOps & Platform Engineering
-- Databricks & dbt Modernization
-- AI Agent Systems & Orchestration
-- Cloud-Native Analytics Engineering
-- Enterprise Modernization Initiatives
-
-I enjoy designing systems that improve:
-- reliability
-- scalability
-- observability
-- developer productivity
-- platform governance
-- engineering automation
-
----
-
-## Enterprise Platform Expertise
+## Expertise
 
 <table>
 <tr>
 <td width="50%">
 
 ### Lakehouse Architecture
-Designing scalable cloud-native analytics architectures using Databricks, Delta Lake, Spark, and modern lakehouse patterns.
+Scalable cloud-native analytics using Databricks, Delta Lake, Spark, and modern lakehouse patterns.
 
 </td>
-
 <td width="50%">
 
 ### DataOps & Platform Engineering
-Building automated CI/CD pipelines, observability frameworks, governance systems, and reliable engineering workflows.
+Automated CI/CD pipelines, observability frameworks, governance systems, and reliable engineering workflows.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
 ### AI Agent Systems
-Exploring agentic workflows, orchestration frameworks, MCP tooling, and AI-enabled engineering systems.
+Agentic workflows, orchestration frameworks, MCP tooling, and AI-enabled engineering systems.
 
 </td>
-
 <td width="50%">
 
 ### Enterprise Data Platforms
-Modernizing enterprise analytics ecosystems through scalable architecture and platform engineering practices.
+Modernising enterprise analytics ecosystems through scalable architecture and platform engineering.
 
 </td>
 </tr>
 </table>
-
----
-
-## Currently Exploring
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Agentic%20AI%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP%20Tooling-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise%20AI%20Orchestration-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spec--Driven%20Development-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databricks%20Optimization-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI--Augmented%20DataOps-111827?style=for-the-badge" />
-</p>
-
----
-
-## Featured Architecture Work
-
-### Modern Data Platforms
-- Databricks Lakehouse Architectures
-- Delta Lake Optimization
-- Enterprise Analytics Engineering
-- Scalable Data Transformation Frameworks
-
-### DataOps & Engineering Automation
-- CI/CD for Data Platforms
-- Automated Testing & Observability
-- Governance & Quality Engineering
-- Deployment Automation
-
-### AI & Intelligent Systems
-- AI Agent Orchestration
-- MCP Tooling
-- Agentic Engineering Systems
-- AI-Augmented Engineering Workflows
-
-### Enterprise Architecture
-- Cloud-Native Analytics Platforms
-- Data Platform Modernization
-- Platform Scalability & Reliability
-- Architecture-Driven Engineering
 
 ---
 
@@ -161,7 +90,17 @@ Modernizing enterprise analytics ecosystems through scalable architecture and pl
 
 ---
 
+## Architecture Portfolio
+
+Reference architectures across lakehouse design, AI agent orchestration, data mesh, dbt transformation lineage, and MLOps pipelines.
+
+👉 [alwyndsouza.github.io](https://alwyndsouza.github.io)
+
+---
+
 ## Latest Technical Articles
+
+66+ published articles on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
 - [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
@@ -193,13 +132,13 @@ Modernizing enterprise analytics ecosystems through scalable architecture and pl
   <a href="https://alwyndsouza.github.io">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" />
   </a>
-  <a href="https://github.com/alwyndsouza">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/alwynanildsouza/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@aradsouza">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://github.com/alwyndsouza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
