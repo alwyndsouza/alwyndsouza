@@ -103,6 +103,8 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 66+ published articles on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
+- [dbt Core v1.12 Rewrites the Semantic Layer Spec](https://medium.com/towards-data-engineering/dbt-core-v1-12-rewrites-the-semantic-layer-spec-52a548a06637?source=rss-670f6306e3c0------2)
+- [How I Use Promptfoo to Test and Grade an Agile AI Skill](https://aradsouza.medium.com/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
 - [Defining Better Sprint Goals with GitHub Copilot Agent Skills](https://aradsouza.medium.com/defining-better-sprint-goals-with-github-copilot-agent-skills-6c2448d8a4b7?source=rss-670f6306e3c0------2)
 - [My Copilot Agent Skill Splits Stories Better Than Most Agile Teams](https://aradsouza.medium.com/my-copilot-agent-skill-splits-stories-better-than-most-agile-teams-92c3130f1905?source=rss-670f6306e3c0------2)
 - [Why Your User Stories Are Broken &lpar;And How a Copilot Agent Skill Can Fix Them&rpar;](https://aradsouza.medium.com/why-your-user-stories-are-broken-and-how-a-copilot-agent-skill-can-fix-them-14dd391d4dbb?source=rss-670f6306e3c0------2)
@@ -111,8 +113,6 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 - [AI Agents Explained Without the Hype: A Data Engineer’s Take](https://medium.com/towards-data-engineering/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
 - [A Better Way to Do Real-Time Streaming &lpar;Redpanda + RisingWave Explained&rpar;](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
 - [BI-as-Code: Bridging the Gap Between Data Engineering and Analytics](https://medium.com/towards-data-engineering/bi-as-code-bridging-the-gap-between-data-engineering-and-analytics-9da47a39fb8c?source=rss-670f6306e3c0------2)
-- [MCP vs Agentic Skills — What’s the Difference, and How Do They Work Together?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-whats-the-difference-and-how-do-they-work-together-0ddaea01f73c?source=rss-670f6306e3c0------2)
-- [Databricks transitioning to the Direct Deployment Engine for Declarative Automation Bundles](https://medium.com/towards-data-engineering/transitioning-to-the-direct-deployment-engine-for-declarative-automation-bundles-e0e5a45bb9db?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
