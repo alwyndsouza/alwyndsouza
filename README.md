@@ -104,7 +104,7 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 
 <!-- BLOG-POST-LIST:START -->
 - [dbt Core v1.12 Rewrites the Semantic Layer Spec](https://medium.com/towards-data-engineering/dbt-core-v1-12-rewrites-the-semantic-layer-spec-52a548a06637?source=rss-670f6306e3c0------2)
-- [How I Use Promptfoo to Test and Grade an Agile AI Skill](https://aradsouza.medium.com/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
+- [How to Use Promptfoo to Test and Evaluate AI Agent Skills](https://aradsouza.medium.com/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
 - [Defining Better Sprint Goals with GitHub Copilot Agent Skills](https://aradsouza.medium.com/defining-better-sprint-goals-with-github-copilot-agent-skills-6c2448d8a4b7?source=rss-670f6306e3c0------2)
 - [My Copilot Agent Skill Splits Stories Better Than Most Agile Teams](https://aradsouza.medium.com/my-copilot-agent-skill-splits-stories-better-than-most-agile-teams-92c3130f1905?source=rss-670f6306e3c0------2)
 - [Why Your User Stories Are Broken &lpar;And How a Copilot Agent Skill Can Fix Them&rpar;](https://aradsouza.medium.com/why-your-user-stories-are-broken-and-how-a-copilot-agent-skill-can-fix-them-14dd391d4dbb?source=rss-670f6306e3c0------2)
