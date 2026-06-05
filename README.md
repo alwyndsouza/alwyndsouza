@@ -103,6 +103,7 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 66+ published articles on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
+- [dbt MCP v1.20.0: Your AI Agents was reading the Wrong dbt docs](https://aradsouza.medium.com/your-ai-agent-was-reading-the-wrong-dbt-docs-0bb3f1238189?source=rss-670f6306e3c0------2)
 - [dbt v1.12 vars.yml: A Five-Year Community Ask, Finally Answered](https://medium.com/towards-data-engineering/dbt-v1-12-vars-yml-a-five-year-community-ask-finally-answered-06dd484a1f8c?source=rss-670f6306e3c0------2)
 - [dbt Core v1.12 Rewrites the Semantic Layer Spec](https://medium.com/towards-data-engineering/dbt-core-v1-12-rewrites-the-semantic-layer-spec-52a548a06637?source=rss-670f6306e3c0------2)
 - [How to Use Promptfoo to Test and Evaluate AI Agent Skills](https://blog.dataengineerthings.org/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
@@ -112,7 +113,6 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 - [The Complete Guide to Agent Skills for Agile: Four Skills for Better Scrum](https://aradsouza.medium.com/the-complete-guide-to-agent-skills-for-agile-four-skills-for-better-scrum-592e1193f2a0?source=rss-670f6306e3c0------2)
 - [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
 - [AI Agents Explained Without the Hype: A Data Engineer’s Take](https://medium.com/towards-data-engineering/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
-- [A Better Way to Do Real-Time Streaming &lpar;Redpanda + RisingWave Explained&rpar;](https://blog.dataengineerthings.org/a-better-way-to-do-real-time-streaming-redpanda-risingwave-explained-465f780b5012?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
