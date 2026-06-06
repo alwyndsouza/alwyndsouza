@@ -100,7 +100,7 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 
 ## Latest Technical Articles
 
-66+ published articles on data engineering, AI systems, and platform architecture.
+Articles published on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
 - [Your AI Agent Was Reading the Wrong dbt docs](https://medium.com/towards-data-engineering/your-ai-agent-was-reading-the-wrong-dbt-docs-0bb3f1238189?source=rss-670f6306e3c0------2)
