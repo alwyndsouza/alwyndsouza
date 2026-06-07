@@ -103,16 +103,16 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 Articles published on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Cost Observability: Two Open Source Tools Every AI Developer Should Know](https://medium.com/data-science-collective/stop-guessing-your-ai-spend-two-free-tools-that-track-every-token-c9e15219ed8e?source=rss-670f6306e3c0------2)
+- [AI Skills Need CI/CD Too](https://aradsouza.medium.com/ai-skills-need-ci-cd-too-c06be3b2c4c9?source=rss-670f6306e3c0------2)
 - [Your AI Agent Was Reading the Wrong dbt docs](https://medium.com/towards-data-engineering/your-ai-agent-was-reading-the-wrong-dbt-docs-0bb3f1238189?source=rss-670f6306e3c0------2)
 - [dbt v1.12 vars.yml: A Five-Year Community Ask, Finally Answered](https://medium.com/towards-data-engineering/dbt-v1-12-vars-yml-a-five-year-community-ask-finally-answered-06dd484a1f8c?source=rss-670f6306e3c0------2)
 - [dbt Core v1.12 Rewrites the Semantic Layer Spec](https://medium.com/towards-data-engineering/dbt-core-v1-12-rewrites-the-semantic-layer-spec-52a548a06637?source=rss-670f6306e3c0------2)
-- [AI Skills Need CI/CD Too](https://aradsouza.medium.com/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
+- [Testing AI Skills Like a Software Engineer](https://blog.dataengineerthings.org/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
 - [Defining Better Sprint Goals with GitHub Copilot Agent Skills](https://aradsouza.medium.com/defining-better-sprint-goals-with-github-copilot-agent-skills-6c2448d8a4b7?source=rss-670f6306e3c0------2)
 - [My Copilot Agent Skill Splits Stories Better Than Most Agile Teams](https://aradsouza.medium.com/my-copilot-agent-skill-splits-stories-better-than-most-agile-teams-92c3130f1905?source=rss-670f6306e3c0------2)
 - [Why Your User Stories Are Broken &lpar;And How a Copilot Agent Skill Can Fix Them&rpar;](https://aradsouza.medium.com/why-your-user-stories-are-broken-and-how-a-copilot-agent-skill-can-fix-them-14dd391d4dbb?source=rss-670f6306e3c0------2)
 - [The Complete Guide to Agent Skills for Agile: Four Skills for Better Scrum](https://aradsouza.medium.com/the-complete-guide-to-agent-skills-for-agile-four-skills-for-better-scrum-592e1193f2a0?source=rss-670f6306e3c0------2)
-- [MCP vs. Agentic Skills: Which Architecture Should You Choose?](https://medium.com/towards-data-engineering/mcp-vs-agentic-skills-which-architecture-should-you-choose-b103f4b2d364?source=rss-670f6306e3c0------2)
-- [AI Agents Explained Without the Hype: A Data Engineer’s Take](https://medium.com/towards-data-engineering/ai-agents-explained-without-the-hype-a-data-engineers-take-83633ac7cd1e?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
