@@ -103,8 +103,8 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 Articles published on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
-- [dbt wizard cli: AI agent built for analytics engineering](https://aradsouza.medium.com/dbt-wizard-cli-the-ai-agent-analytics-engineers-have-been-waiting-for-fc43ed16d2b4?source=rss-670f6306e3c0------2)
-- [AI Cost Observability: Two Open Source Tools Every AI Developer Should Know](https://medium.com/data-science-collective/stop-guessing-your-ai-spend-two-free-tools-that-track-every-token-c9e15219ed8e?source=rss-670f6306e3c0------2)
+- [dbt Wizard CLI: An AI Agent Built for Analytics Engineering](https://blog.dataengineerthings.org/dbt-wizard-cli-the-ai-agent-analytics-engineers-have-been-waiting-for-fc43ed16d2b4?source=rss-670f6306e3c0------2)
+- [Stop Guessing Your AI Spend: Two Open Source Tools That Track Every Token](https://medium.com/data-science-collective/stop-guessing-your-ai-spend-two-free-tools-that-track-every-token-c9e15219ed8e?source=rss-670f6306e3c0------2)
 - [AI Skills Need CI/CD Too](https://aradsouza.medium.com/ai-skills-need-ci-cd-too-c06be3b2c4c9?source=rss-670f6306e3c0------2)
 - [Your AI Agent Was Reading the Wrong dbt docs](https://medium.com/towards-data-engineering/your-ai-agent-was-reading-the-wrong-dbt-docs-0bb3f1238189?source=rss-670f6306e3c0------2)
 - [dbt v1.12 vars.yml: A Five-Year Community Ask, Finally Answered](https://medium.com/towards-data-engineering/dbt-v1-12-vars-yml-a-five-year-community-ask-finally-answered-06dd484a1f8c?source=rss-670f6306e3c0------2)
