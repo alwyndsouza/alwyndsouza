@@ -103,6 +103,7 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 Articles published on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
+- [Altimate Code and the Rise of the AI Engineering Harness](https://medium.com/data-science-collective/altimate-code-and-the-rise-of-the-ai-engineering-harness-c8caee6f80c2?source=rss-670f6306e3c0------2)
 - [The Hidden Dependency Behind Reliable AI Agents](https://aradsouza.medium.com/the-hidden-dependency-behind-reliable-ai-agents-a5b60c36a4e2?source=rss-670f6306e3c0------2)
 - [dbt Wizard CLI: An AI Agent Built for Analytics Engineering](https://blog.dataengineerthings.org/dbt-wizard-cli-the-ai-agent-analytics-engineers-have-been-waiting-for-fc43ed16d2b4?source=rss-670f6306e3c0------2)
 - [Stop Guessing Your AI Spend: Two Open Source Tools That Track Every Token](https://medium.com/data-science-collective/stop-guessing-your-ai-spend-two-free-tools-that-track-every-token-c9e15219ed8e?source=rss-670f6306e3c0------2)
@@ -112,7 +113,6 @@ Articles published on data engineering, AI systems, and platform architecture.
 - [dbt Core v1.12 Rewrites the Semantic Layer Spec](https://medium.com/towards-data-engineering/dbt-core-v1-12-rewrites-the-semantic-layer-spec-52a548a06637?source=rss-670f6306e3c0------2)
 - [Testing AI Skills Like a Software Engineer](https://blog.dataengineerthings.org/how-i-use-promptfoo-to-test-and-grade-an-agile-ai-skill-20e3e66cb3c4?source=rss-670f6306e3c0------2)
 - [Defining Better Sprint Goals with GitHub Copilot Agent Skills](https://aradsouza.medium.com/defining-better-sprint-goals-with-github-copilot-agent-skills-6c2448d8a4b7?source=rss-670f6306e3c0------2)
-- [My Copilot Agent Skill Splits Stories Better Than Most Agile Teams](https://aradsouza.medium.com/my-copilot-agent-skill-splits-stories-better-than-most-agile-teams-92c3130f1905?source=rss-670f6306e3c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
