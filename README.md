@@ -103,7 +103,7 @@ Reference architectures across lakehouse design, AI agent orchestration, data me
 Articles published on data engineering, AI systems, and platform architecture.
 
 <!-- BLOG-POST-LIST:START -->
-- [Altimate Code and the Rise of the AI Engineering Harness](https://medium.com/data-science-collective/altimate-code-and-the-rise-of-the-ai-engineering-harness-c8caee6f80c2?source=rss-670f6306e3c0------2)
+- [Altimate Code and the Rise of the AI Engineering Harness](https://blog.dataengineerthings.org/altimate-code-and-the-rise-of-the-ai-engineering-harness-c8caee6f80c2?source=rss-670f6306e3c0------2)
 - [The Hidden Dependency Behind Reliable AI Agents](https://aradsouza.medium.com/the-hidden-dependency-behind-reliable-ai-agents-a5b60c36a4e2?source=rss-670f6306e3c0------2)
 - [dbt Wizard CLI: An AI Agent Built for Analytics Engineering](https://blog.dataengineerthings.org/dbt-wizard-cli-the-ai-agent-analytics-engineers-have-been-waiting-for-fc43ed16d2b4?source=rss-670f6306e3c0------2)
 - [Stop Guessing Your AI Spend: Two Open Source Tools That Track Every Token](https://medium.com/data-science-collective/stop-guessing-your-ai-spend-two-free-tools-that-track-every-token-c9e15219ed8e?source=rss-670f6306e3c0------2)
